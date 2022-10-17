@@ -2,4 +2,4 @@
 
 ## popis_projektu
 krokovy motor
-> tohle je komentar
+> https://www.youtube.com/watch?v=gyqOETtpINg 
