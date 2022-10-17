@@ -2,4 +2,4 @@
 
 ## popis_projektu
 krokovy motor
--> tohle je komentar
+> tohle je komentar
